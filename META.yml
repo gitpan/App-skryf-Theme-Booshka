@@ -21,4 +21,4 @@ requires:
 resources:
   homepage: https://github.com/skryf/App-skryf-Theme-Booshka
   repository: https://github.com/skryf/App-skryf-Theme-Booshka.git
-version: 0.001_01
+version: 0.001_02

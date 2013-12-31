@@ -4,7 +4,7 @@ use Mojo::Base 'Mojolicious::Plugin';
 use File::Basename 'dirname';
 use File::Spec::Functions 'catdir';
 
-our $VERSION = '0.001_01'; # VERSION
+our $VERSION = '0.001_02'; # VERSION
 
 has theme_name => 'Booshka';
 has theme_author => 'Adam Stokes';
